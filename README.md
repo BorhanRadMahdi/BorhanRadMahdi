@@ -54,9 +54,10 @@ Building highly maintainable backend services with Django and NestJS, improving 
 ---
 
 ## Contact
-**instagram:**borhan_rm  
-**LinkedIn:** borhan-radmahdi  
-**Telegram:**@BorhanRm
+- instagram:**borhan_rm
+- LinkedIn:** borhan-radmahdi
+- Telegram:**@BorhanRm
+- Email:bradmahdi95@gmail.com
 ---
 
 <p align="center">
